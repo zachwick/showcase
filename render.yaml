@@ -1,7 +1,7 @@
 services:
   - type: web
-      name: showcase
-      env: static
-      buildCommand: npm run build
-      staticPublishPath: ./build
-      pullRequestPreviewsEnabled: true # optional
+    name: showcase
+    env: static
+    buildCommand: npm run build
+    staticPublishPath: ./build
+    pullRequestPreviewsEnabled: true # optional
