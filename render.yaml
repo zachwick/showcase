@@ -5,3 +5,5 @@ services:
     buildCommand: npm run build
     staticPublishPath: ./build
     pullRequestPreviewsEnabled: true # optional
+    domains:
+      - showcase.zachwick.com
