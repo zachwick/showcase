@@ -4,6 +4,10 @@ authors: zach
 tags: [docs]
 ---
 
+<audio controls>
+    <source src="/audio/theories_of_learning_applied_to_documentation_final.mp3" />
+</audio>
+
 Modern computers, or rather the computer programming languages that control them, are *Turing-complete.* This means that computers as we understand and experience them today can solve any problem whose solution can be solved by an algorithm. Because any two Turing-complete systems can simulate each other (this is called *equivalence*), there exists more than one way to solve a given problem using a computer (or any other kind of Turing-complete system). This necessitates that when learning how to use a computer to solve a problem, the human involved in that decision-making must use a constructivist point-of-view to evaluate the computer-aided solution. That is to say, using a computer to solve a problem is more like building a bridge out of local stone whose design is inspired by previous stone bridges that the architect has experienced; it is not like uncovering a universal truth as in Michelangelo's description of revealing the statue that was already within the block of stone:
 
 > “The sculpture is already complete within the marble block, before I start my work. It is already there, I just have to chisel away the superfluous material.”
