@@ -4,6 +4,10 @@ authors: zach
 tags: [docs]
 ---
 
+<audio controls>
+    <source src="/audio/write_better_docs_final.mp3" />
+</audio>
+
 That sentence might be a vague instruction coming down the chain-of-command to you.  That sentence might something that you aspire to do. In either case, that statement of "Write better docs." might be something that you’re actively working to do. If you find yourself in this final group, then this text is for you.
 
 You already know that the documentation that you create should be *useful*, but what does that mean in practice? Does it mean that users can use your documentation to solve their implementation issues? Does documentation being *useful* mean that your documentation helps users improve their business processes? Or does *useful* documentation only mean that its existence is a positive value proposition by your sales counterparts?
