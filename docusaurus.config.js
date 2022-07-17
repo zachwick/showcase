@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learning Design Showcase',
-  tagline: 'Making docs educational',
+  tagline: 'Making documentation experiences educational',
   url: 'https://showcase.zachwick.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -81,11 +81,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Portfolio',
             items: [
               {
                 label: 'Showcase',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Writings',
+                to: '/blog',
               },
             ],
           },
@@ -93,16 +97,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/zachwick',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/zachwick',
               },
             ],
           },
@@ -110,13 +110,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Writings',
-                to: '/blog',
+                label: 'Read Law',
+                href: 'https://law.zachwick.com',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/zachwick/showcase',
-              },
+                label: 'zachwick.com',
+                href: 'https://zachwick.com',
+              }
             ],
           },
         ],

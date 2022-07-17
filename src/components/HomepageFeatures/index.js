@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Approachable content',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Created using the same educational design principles that it speaks to and only assuming that consumers have a desire to learn, this content is accessible to a wide variety of learners.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Digital focus',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Focusing on digital educational experiences enables easy extrapolation to real-world developer enablement scenarios.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Useful today',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Presented as a field guide for doers, each artifact is intended to provide a standalone insight that can be applied by learners today.
       </>
     ),
   },
