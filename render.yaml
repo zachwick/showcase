@@ -7,3 +7,20 @@ services:
     pullRequestPreviewsEnabled: true # optional
     domains:
       - showcase.zachwick.com
+  - type: web
+    name: minio
+    healthCheckPath: /minio/health/live
+    env: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    repo: https://github.com/zachwick/showcase-minio
+    disk:
+      name: data
+      mountPath: /data
+    envVars:
+      - key: MINIO_ROOT_USER
+        generateValue: true
+      - key: MINIO_ROOT_PASSWORD
+        generateValue: true
+      - key: PORT
+        value: 10000
