@@ -10,7 +10,7 @@ This particular video is the first video that serves as an introduction to this 
 
 # Video
 
-<video controls>
+<video controls crossorigin="anonymous">
     <source src="https://minio-9p0q.onrender.com/assets/Origins_of_Money_Recording.mp4" type="video/mp4" />
 </video>
 
