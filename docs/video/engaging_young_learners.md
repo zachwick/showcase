@@ -11,7 +11,7 @@ This particular video is the first video that serves as an introduction to this 
 # Video
 
 <video controls>
-  <source src="https://www.dropbox.com/s/ohwcewxbl6554l1/Origins%20of%20Money%20Recording.mov?dl=0"/>
+    <source src="https://minio-9p0q.onrender.com/assets/Origins_of_Money_Recording.mp4" type="video/mp4" />
 </video>
 
 # Discussion
