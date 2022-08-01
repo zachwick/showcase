@@ -4,7 +4,10 @@ sidebar_position: 2
 
 # Mathematical video
 
-The goal of this video is to educate North Americans with a combined interest in mathematics and sports betting.
+The goals of this video are to educate North Americans with a combined interest in mathematics and sports betting on how to:
+
+- use the Kelly Criterion to optimally size bets on sporting events
+- understand how to interpret American style odds
 
 # Video
 
