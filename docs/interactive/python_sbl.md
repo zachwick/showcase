@@ -6,6 +6,6 @@ sidebar_position: 2
 
 <iframe
 width="1200"
-height="900"
-src="https://www.figma.com/proto/A6AJaMhhnSFE0xq67xTivT/Learn_Python_SBL?page-id=0%3A1&node-id=5%3A77&viewport=787%2C-60%2C0.53&scaling=scale-down&starting-point-node-id=5%3A77"
+height="900" 
+src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FA6AJaMhhnSFE0xq67xTivT%2FLearn_Python_SBL%3Fpage-id%3D0%253A1%26node-id%3D5%253A77%26viewport%3D787%252C-60%252C0.53%26scaling%3Dscale-down%26starting-point-node-id%3D5%253A77"
 allowfullscreen />
