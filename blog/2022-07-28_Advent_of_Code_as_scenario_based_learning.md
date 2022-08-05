@@ -116,6 +116,7 @@ solution's code. Given that the understated goal of the entire Advent of Code sc
 programming code to solve a real-world problem, such reflection encourages participants to consider the real-world
 consequences of their particular solution.
 
-**References**
+# References
+
 Clark, R. C.(2012).  _Scenario-based e-learning: Evidence-based guidelines for online workforce learning_  (1st ed.).
 San Francisco, CA: Pfeiffer.
