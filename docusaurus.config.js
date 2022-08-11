@@ -104,6 +104,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/zachwick',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/zachwick/',
+              },
             ],
           },
           {
