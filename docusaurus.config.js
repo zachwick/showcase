@@ -72,6 +72,7 @@ const config = {
             label: 'Gallery',
           },
           {to: '/blog', label: 'Writings', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/zachwick/showcase',
             label: 'GitHub',
