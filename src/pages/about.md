@@ -130,9 +130,14 @@ iOS development of digital health and wellness apps.
 </TabItem>
 <TabItem value="education" label="Education">
 
-**Master's of Education**
+**Master of Education in Instructional Design &amp; Technology** _Bowling Green State University_<br/>
+(2022-12)<br/>
 
-**Master's Business Administration**
+**Master of Business Administration w/ concentration in Accounting** _Bowling Green State University_<br/>
+(expected 2023-05)<br/>
+
+**Bachelor of Science in Mathematics w/ concentration in Pure Mathematics** _The University of Toledo_<br/>
+(2010-05)<br/>
 
 </TabItem>
 </Tabs>
