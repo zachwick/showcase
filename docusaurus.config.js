@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'zach wick',
-  tagline: 'Making documentation experiences educational',
+  tagline: 'Making documentation experiences educational.',
   url: 'https://showcase.zachwick.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

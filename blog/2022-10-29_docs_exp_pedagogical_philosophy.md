@@ -1,5 +1,5 @@
 ---
-title: Documentation experience pedagogical philosophy
+title: Documentation experience philosophy
 authors: zach
 tags: [education, docs]
 ---
