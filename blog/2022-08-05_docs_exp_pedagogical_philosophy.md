@@ -6,10 +6,10 @@ tags: [education, docs]
 
 When working in the area of software developer enablement, my goal is to get the developer to be as effective as
 possible, as quickly as possible. For software businesses that serve technical audiences, product adoption is often
-predicated by educating potential customers on why your software product solves their issue. This is done by providing a
+predicated by educating potential customers on why your software product solves their issue. This is best done by providing a
 structured knowledge set that is efficiently consumable by the intended technical audience.
 
-This requires having a complete definition of who the audience is, and then tailoring the educational experience to that
+To do this requires having a complete definition of who the audience is, and then tailoring the educational experience to that
 audience. By aligning story based guides to common product usage patterns, the educational experience's goals and the
 learning developer's goals are aligned to enable more motivated learning (Ambrose, 2010, p. 73).
 
