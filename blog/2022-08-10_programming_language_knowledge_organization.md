@@ -176,3 +176,8 @@ Merigoux, D., Chataing, N., & Protzenko, J. (2021). Catala: A Programming Langua
 
 Thellefsen, M. (2003), The role of special language in relation to knowledge organization. Proc. Am. Soc. Info. Sci.
 Tech., 40: 206-212. [https://doi.org/10.1002/meet.1450400126](https://doi.org/10.1002/meet.1450400126)
+
+## Notes
+
+This work was created for Instructional Design 6010 _Principles of Learning Design_ at Bowling Green State University to
+fulfill a requirement to research and discuss an area of research germane to the course and to one's personal interests.
