@@ -6,7 +6,7 @@ tags: [education, finance]
 
 ## Introduction
 
-"Financial literacy" is a body of knowledge necessary to have in order to make well-informed decisions when presented
+_Financial literacy_ is a body of knowledge necessary to have in order to make well-informed decisions when presented
 with financial situations. It is generally assumed that financial education can have a positive impact on financial
 literacy. However, individual characteristics of both the learner and the financial education itself have direct and
 significant effects on the efficacy of the financial education. This literature review explores how learner wealth,
