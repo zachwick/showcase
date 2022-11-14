@@ -157,3 +157,8 @@ Clark, R. C. (2012). _Scenario-based e-learning: Evidence-based guidelines for o
 San Francisco, CA: Pfeiffer.
 
 Clark, R. C. & Mayer, R. E. (2016).  _e-Learning and the Science of Instruction_ (4th Ed.) San Francisco, CA: Pfeiffer.
+
+## Notes
+
+This work was created for Instructional Design 6700 _Principles of Multimedia Production and Courseware Design_ at
+Bowling Green State University to fulfill a requirement to create a complete scenario-based learning experience.
