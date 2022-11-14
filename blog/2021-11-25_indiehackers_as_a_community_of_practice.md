@@ -158,3 +158,7 @@ from[https://wenger-trayner.com/introduction-to-communities-of-practice/](https:
 
 Wenger, et al. (2002). Chapter 3. Seven Principles for Cultivating Communities of Practice.*Cultivating Communities of
 Practice: A Guide to Managing Knowledge.*
+
+## Notes
+
+This work was created for Instructional Design 6740 _Digital Learning Theories_ at Bowling Green State University.
