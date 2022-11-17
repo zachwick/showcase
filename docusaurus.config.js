@@ -114,15 +114,23 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Projects',
             items: [
               {
-                label: 'Read Law',
-                href: 'https://law.zachwick.com',
+                label: 'genie',
+                href: 'https://zachwick.github.io/genie/',
               },
               {
-                label: 'zachwick.com',
-                href: 'https://zachwick.com',
+                label: 'ze',
+                href: 'https://github.com/zachwick/ze',
+              },
+              {
+                label: 'watermark',
+                href: 'https://github.com/zachwick/watermark',
+              },
+              {
+                label: 'babble',
+                href: 'https://github.com/zachwick/babble',
               }
             ],
           },
