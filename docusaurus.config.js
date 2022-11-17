@@ -65,6 +65,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/about', label: 'About', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
@@ -72,7 +73,6 @@ const config = {
             label: 'Gallery',
           },
           {to: '/blog', label: 'Writings', position: 'left'},
-          {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/zachwick/showcase',
             label: 'GitHub',
@@ -87,7 +87,7 @@ const config = {
             title: 'Portfolio',
             items: [
               {
-                label: 'Showcase',
+                label: 'Gallery',
                 to: '/docs/intro',
               },
               {
