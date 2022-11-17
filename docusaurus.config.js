@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'zach wick',
   tagline: 'Making developer experiences educational.',
-  url: 'https://showcase.zachwick.com',
+  url: 'https://zachwick.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
