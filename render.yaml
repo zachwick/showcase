@@ -6,7 +6,7 @@ services:
     staticPublishPath: ./build
     pullRequestPreviewsEnabled: true # optional
     domains:
-      - showcase.zachwick.com
+      - zachwick.com
   - type: web
     name: minio
     healthCheckPath: /minio/health/live
