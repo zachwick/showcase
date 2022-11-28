@@ -1,10 +1,10 @@
 ---
-title: A Gradschool Retrospective
+title: A graduate school retrospective
 authors: zach
 tags: [education]
 ---
 
-# A Gradschool Retrospective
+# A graduate school retrospective
 
 Patterns are always obvious in retrospect. Upon reflection, the story arcs of my life are typically around ten years
 long.
