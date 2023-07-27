@@ -1,6 +1,7 @@
 ---
 title: About
 ---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -53,16 +54,21 @@ re-applied to contemporary society for the betterment of all.
 <Tabs>
 <TabItem value="work" label="Work experience">
 
+**Village Council Member** _[Village of Carey, Ohio](https://careyohio.gov)_<br/>
+(2019-08 - Present)<br/>
+Serve as an elected official in the legislative body of Carey, Ohio. Work with citizens and businesses to improve the
+quality of life of everyone in Carey, Ohio and the surrounding area.
+
+**Founder &amp; CEO** _[btrbet, Inc.](https://btrbet.app)_<br/>
+(2023-02 - Present)<br/>
+Building professional tools for professional gamblers, including bet sizing, bet tracking, and bet analysis tools as
+well as tools to help gamblers find contests and situations with an outsized edge.
+
 **Developer Advocate Contractor** _[Render](https://render.com)_<br/>
-(2022-06 - Present)<br/>
+(2022-06 - 2022-12)<br/>
 Create and maintain developer education and enablement material. Work with product engineering teams to develop
 user-facing documentation and educational content. Create marketing collateral for marketing Render's
 platform-as-a-service to technical audiences.
-
-**Village Council Member** _[Village of Carey, Ohio](https://careyohio.gov)_<br/>
-(2019-08 0 Present)<br/>
-Serve as an elected official in the legislative body of Carey, Ohio. Work with citizens and businesses to improve the
-quality of life of everyone in Carey, Ohio and the surrounding area.
 
 **Product Development Manager** _[Amount](https://amount.com)_<br/>
 (2021-02 - 2021-04)<br/>
@@ -111,7 +117,8 @@ Created a web-app and web API for a file syncing and sharing application.
 (2012-07 - 2015-10)<br/>
 Created mesh-networked agronomic monitoring devices and a related web-app and analytics suite.
 
-**Software Engineer &amp; Front-End Evangelist** _[LectureTools](http://web.archive.org/web/20120214042204/http://www.lecturetools.com/)_<br/>
+**Software Engineer &amp; Front-End Evangelist**
+_[LectureTools](http://web.archive.org/web/20120214042204/http://www.lecturetools.com/)_<br/>
 (2011-01 - 2012-05) (Acquired by [Echo360](https://echo360.com/) 2012-11)<br/>
 Web developer for a web-based lecturing platform with real-time analytics.
 
@@ -134,7 +141,7 @@ iOS development of digital health and wellness apps.
 (2022-12)<br/>
 
 **Master of Business Administration w/ concentration in Accounting** _Bowling Green State University_<br/>
-(expected 2023-05)<br/>
+(expected 2023-08)<br/>
 
 **Bachelor of Science in Mathematics w/ concentration in Pure Mathematics** _The University of Toledo_<br/>
 (2010-05)<br/>
