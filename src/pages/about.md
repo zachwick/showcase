@@ -141,7 +141,7 @@ iOS development of digital health and wellness apps.
 (2022-12)<br/>
 
 **Master of Business Administration w/ concentration in Accounting** _Bowling Green State University_<br/>
-(expected 2023-08)<br/>
+(2023-08)<br/>
 
 **Bachelor of Science in Mathematics w/ concentration in Pure Mathematics** _The University of Toledo_<br/>
 (2010-05)<br/>
