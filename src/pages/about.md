@@ -14,8 +14,8 @@ Hailing from the midwest, I spent a decade working as a software engineer buildi
 hardware and firmware to full-stack software and educational efforts such as
 the [Stripe Partner Program](https://stripe.com/partners).
 
-Now, I am pursuing two graduate degrees simultaneously and narrowing my focus to problems at the intersection of
-technology, law, and education.
+I then took a slight detour and completed two graduate degrees simultaneously before going back to my software 
+engineering roots and founding a [SaaS startup for sports bettors](https://btrbet.app/?campaign=z&campaignid=personal).
 
 </TabItem>
 <TabItem value="interests" label="What am I interested in?">
@@ -54,15 +54,15 @@ re-applied to contemporary society for the betterment of all.
 <Tabs>
 <TabItem value="work" label="Work experience">
 
-**Village Council Member** _[Village of Carey, Ohio](https://careyohio.gov)_<br/>
-(2019-08 - Present)<br/>
-Serve as an elected official in the legislative body of Carey, Ohio. Work with citizens and businesses to improve the
-quality of life of everyone in Carey, Ohio and the surrounding area.
-
 **Founder &amp; CEO** _[btrbet, Inc.](https://btrbet.app)_<br/>
 (2023-02 - Present)<br/>
 Building professional tools for professional gamblers, including bet sizing, bet tracking, and bet analysis tools as
 well as tools to help gamblers find contests and situations with an outsized edge.
+
+**Village Council Member** _[Village of Carey, Ohio](https://careyohio.gov)_<br/>
+(2019-08 - 2023-12)<br/>
+Serve as an elected official in the legislative body of Carey, Ohio. Work with citizens and businesses to improve the
+quality of life of everyone in Carey, Ohio and the surrounding area.
 
 **Developer Advocate Contractor** _[Render](https://render.com)_<br/>
 (2022-06 - 2022-12)<br/>
@@ -137,11 +137,11 @@ iOS development of digital health and wellness apps.
 </TabItem>
 <TabItem value="education" label="Education">
 
-**Master of Education in Instructional Design &amp; Technology** _Bowling Green State University_<br/>
-(2022-12)<br/>
-
 **Master of Business Administration w/ concentration in Accounting** _Bowling Green State University_<br/>
 (2023-08)<br/>
+
+**Master of Education in Instructional Design &amp; Technology** _Bowling Green State University_<br/>
+(2022-12)<br/>
 
 **Bachelor of Science in Mathematics w/ concentration in Pure Mathematics** _The University of Toledo_<br/>
 (2010-05)<br/>
