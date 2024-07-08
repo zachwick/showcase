@@ -70,6 +70,11 @@ Create and maintain developer education and enablement material. Work with produ
 user-facing documentation and educational content. Create marketing collateral for marketing Render's
 platform-as-a-service to technical audiences.
 
+**Product Development Manager** _[Amount](https://amount.com)_<br/>
+(2021-02 - 2021-04)<br/>
+Created and maintained developer education and enablement material. Created curricula for each product, coordinating
+efforts with internal and external stakeholders across go-to-market, sales, and engineering organizations.
+
 **Partner Marketing Engineer** _[Stripe](https://stripe.com)_<br/>
 (2018-02 - 2021-02)<br/>
 Scope, build, and execute the Stripe Partner Program which directly influences 40\% of Stripe's processing volume.
